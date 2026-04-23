@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Name=My Product
+Comment=A todolist application
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/local/bin/todolist.exe %u
+Terminal=false
+Type=Application
+Icon=todolist.exe
+Categories=Utility;
+StartupWMClass=todolist.exe
+
+ 
